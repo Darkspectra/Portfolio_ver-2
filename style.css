@@ -1,0 +1,100 @@
+body {
+    background-color: #222 !important;
+    color: #fff !important;
+}
+
+.logo{
+    width: 70px;
+}
+
+
+
+
+/* ==============Banner Style=========== */
+
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+}
+
+.b-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-text{
+    width: 400px;
+}
+
+.title{
+    font-size: 45px;
+}
+
+.description{
+    color: rgb(255, 255, 255);
+}
+
+.btn{
+    padding: 15px 30px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.a-btn{
+    color:white;
+    text-decoration: none;
+}
+
+.react-btn{
+    background-color: chocolate;
+}
+
+
+.banner-img{
+    width: 500px;
+}
+
+
+
+
+
+/* ============Portfolio========= */
+
+
+.card-1{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.card-2-description{
+    padding-left: 30px;
+}
+
+.exp-container{
+    align-items: center;
+}
+
+.education-container{
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.form-card{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-container{
+    gap: 40px;
+}
